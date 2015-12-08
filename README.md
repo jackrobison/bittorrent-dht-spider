@@ -3,7 +3,7 @@
 This program was designed for experimental purposes. It blindly downloads magnet links to acquire metadata,
 needless to say this can come with some risk. Use it at your own risk. This program is not designed to circumvent any copyrights, it is for experimental use only.
 
-**Dependancies:**
+**Dependencies:**
 
 mongod
 pymongo
